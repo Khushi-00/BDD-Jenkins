@@ -3,7 +3,7 @@
 <suite name="FormAutomationSuite">
   <test name="FormTest">
     <classes>
-      <class name="TestRunner.TutorialTestRunner"/>
+      <class name="TestRunner.capestoneTestRunner"/>
     </classes>
   </test>
 </suite>
